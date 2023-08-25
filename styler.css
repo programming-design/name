@@ -21,7 +21,7 @@ body{
     position: absolute;
     color: #FFF;
     transform: translate(-50%, -50%);
-    font-size: 8em;
+    font-size: 5em;
 }
 
 .content h2:nth-child(1)
